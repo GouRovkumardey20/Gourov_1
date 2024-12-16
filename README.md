@@ -1,1 +1,1 @@
-# Gourov_1
+# Snake Water Gun game
